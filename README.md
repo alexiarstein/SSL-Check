@@ -5,7 +5,7 @@ del certificado SSL de un dominio.
 
 # USO:
 
-sslcheck <dominio>
+sslcheck ejemplo.com.ar
 
 # Author
 
